@@ -1050,9 +1050,9 @@ main#main {
   transition: transform .6s ease .6s,opacity 0s ease .6s;
   transition: transform .6s ease .6s,opacity 0s ease .6s,-webkit-transform .6s ease .6s;
 }
-
+/* !----background wallpaper------ */
 body.fullscreendark #main>section#home {
-  background-image: url('http://via.placeholder.com/1920x1080');
+  background-image: url('https://imgur.com/AtGma3H');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
