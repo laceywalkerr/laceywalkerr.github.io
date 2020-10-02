@@ -1,1 +1,1 @@
-console.log("This will eventually be really cool. I bought a template, but have not yet implemented it.")
+console.log("Howdy!")
