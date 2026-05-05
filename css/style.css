@@ -676,6 +676,19 @@ background:#c06a44;
 margin-top:12px;
 }
 
+.article-image-single {
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+}
+
+.article-image-single img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 6px;
+    object-fit: cover;
+}
+
 /* =========================
 ARTICLE
 ========================= */
